@@ -1,5 +1,5 @@
 # Netflix Homepage : 
-A simple website having similar homepage that of Netflix using using HTML and CSS.
+A simple website having a homepage similar to that of Netflix using HTML and CSS.
 
 This project is a part of my web development virtual Internship program at **Bharat Intern**
 
